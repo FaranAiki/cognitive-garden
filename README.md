@@ -1,6 +1,6 @@
-# Superskill: Cognitive Training Platform
+# Cognitive Garden: Cognitive Training Platform
 
-Superskill is a high-fidelity cognitive training application built using Flutter. Designed with a professional, mobile-first, vertical-constrained layout, it features a modern slate-gray and neon-blue aesthetic. The platform supports five languages and local high score tracking across 27 distinct mini-games.
+Cognitive Garden is a high-fidelity cognitive training application built using Flutter. Designed with a professional, mobile-first, vertical-constrained layout, it features a modern slate-gray and neon-blue aesthetic. The platform supports five languages and local high score tracking across 27 distinct mini-games.
 
 ---
 

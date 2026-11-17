@@ -26,7 +26,7 @@ void main() async {
       backgroundColor: Colors.transparent,
       skipTaskbar: false,
       titleBarStyle: TitleBarStyle.normal,
-      title: 'Superskill Games', // TODO change this into localized
+      title: 'Cognitive Garden Games', // TODO change this into localized
     );
     await windowManager.waitUntilReadyToShow(windowOptions, () async {
       await windowManager.setSize(windowSize);
@@ -84,7 +84,7 @@ class MyApp extends ConsumerWidget {
     );
 
     return MaterialApp(
-      title: 'Superskill Games', // TODO change to localized
+      title: 'Cognitive Garden Games', // TODO change to localized
       debugShowCheckedModeBanner: false,
       themeMode: settings.themeMode,
       theme: ThemeData(
